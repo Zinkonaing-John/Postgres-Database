@@ -10,5 +10,8 @@ Open your terminl or console ->
 
 ->brew install postgresql@15 (for latest version)
 
+->psql -h localhost -d postgres
+
+
 
 
